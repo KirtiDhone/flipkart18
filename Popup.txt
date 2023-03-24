@@ -1,0 +1,21 @@
+* Popup---
+It is a GUI window wich comes on the top on another window.
+6 types of popup are presents.
+procedure--->
+1)Targeted element is inspectable or not.If it is ispectable then we can handle it by using findElement
+hidden division is only popup which is inspectable.
+2)if it is not inspectable then check any solution in programming language
+3)check any soluion in automation tool(selenium).
+4)Go to 3rd party tools.
+5)Try to avoid the popup.
+
+1)javascript==the pop up is designed using javascript language.
+i)alert ii)comfirmation iii)promt
+
+2)Hiddendivision-->
+
+3)Authentication--->it is used in private organization
+> it is create to ask username and password to user
+> Along with url user can pass the username & password
+Syntax of url==protocol::username:password@url
+
